@@ -53,9 +53,9 @@ const Hero = () => {
         <figure>
           <div className='hero-3d-layout'>
 
+        <HeroExperience/>
           </div>
         </figure>
-        <HeroExperience/>
       </div>
     </section>
   )
