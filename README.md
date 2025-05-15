@@ -9,3 +9,10 @@ npm i react-responsive
 // use 3d models from Sketchfab
 cd ./public/models
 npx gltfjsx optimized-room.glb 
+
+// animating words(Hero.jsx)
+import { useGSAP } from '@gsap/react';
+import gsap from 'gsap';
+
+// animating counter
+npm i react-countup => import CountUp from 'react-countup'
